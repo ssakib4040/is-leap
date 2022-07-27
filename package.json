@@ -1,0 +1,8 @@
+{
+  "name": "is-leap",
+  "version": "1.0.0",
+  "description": "A simple and lightweight module to detect leap year",
+  "main": "index.js",
+  "author": "Sadman Sakib",
+  "license": "MIT"
+}
