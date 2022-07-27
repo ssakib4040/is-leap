@@ -1,6 +1,6 @@
 {
   "name": "is-leap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and lightweight module to detect leap year",
   "main": "index.js",
   "author": "Sadman Sakib",
